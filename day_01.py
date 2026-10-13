@@ -15,6 +15,5 @@ fh.write("Next Line")
 
 fh.close()
 
-# 3. The w mode
 
 
